@@ -15,7 +15,7 @@ persons:
 schedules:
   - month: December
     date-start: 14
-    day-start: 0
+    day-start: 7
     dates:
       - person: Ilonka     # Sun 15
         unavailable:
