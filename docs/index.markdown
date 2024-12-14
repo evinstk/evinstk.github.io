@@ -4,3 +4,4 @@
 
 layout: home
 ---
+- [Rhodie and Chores Schedule]({% link rhodie-chores.md %})
