@@ -14,9 +14,12 @@ persons:
   - Tanner
 schedules:
   - month: December
-    date-start: 15
+    date-start: 14
     day-start: 0
     dates:
+      - person: Ilonka     # Sun 15
+        unavailable:
+          - Holly
       - person: Ilonka     # Sun 15
         unavailable:
           - Holly
