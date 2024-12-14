@@ -80,35 +80,35 @@ schedules:
       - person: Holly      # Sun 5
       - person: Holly      #     6
         unavailable: Cody
-      - person: ""     #     7
-      - person: ""     #     8
+      - person: Ilonka     #     7
+      - person: Ilonka     #     8
         unavailable: Cody
-      - person: ""     #     9
-      - person: ""     #     10
-      - person: ""     #     11
-      - person: ""     # Sun 12
-      - person: ""     #     13
+      - person: Cody     #     9
+      - person: Cody     #     10
+      - person: Tanner     #     11
+      - person: Tanner     # Sun 12
+      - person: Cheryl     #     13
         unavailable: Cody
-      - person: ""     #     14
-      - person: ""     #     15
+      - person: Cheryl     #     14
+      - person: Cheryl     #     15
         unavailable: Cody
-      - person: ""     #     16
-      - person: ""     #     17
-      - person: ""     #     18
-      - person: ""     # Sun 19
-      - person: ""     #     20
+      - person: Holly     #     16
+      - person: Holly     #     17
+      - person: Holly     #     18
+      - person: Ilonka     # Sun 19
+      - person: Ilonka     #     20
         unavailable: Cody
-      - person: ""     #     21
-      - person: ""     #     22
+      - person: Ilonka     #     21
+      - person: Tanner     #     22
         unavailable: Cody
-      - person: ""     #     23
-      - person: ""     #     24
-      - person: ""     #     25
-      - person: ""     # Sun 26
-      - person: ""     #     27
+      - person: Tanner     #     23
+      - person: Cody     #     24
+      - person: Cody     #     25
+      - person: Cheryl     # Sun 26
+      - person: Cheryl     #     27
         unavailable: Cody
-      - person: ""     #     28
-      - person: ""     #     29
+      - person: Holly     #     28
+      - person: Holly     #     29
         unavailable: Cody
-      - person: ""     #     30
-      - person: ""     #     31
+      - person: Tanner     #     30
+      - person: Tanner     #     31
