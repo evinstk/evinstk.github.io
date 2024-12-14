@@ -16,6 +16,7 @@ Each visit be sure to:
 - Give Rhodie some company!
 - Fetch the mail and collect it on the counter (Tanner will take it home on his visits)
 - Start the cars for a moment especially if the weather is cold
+- Text the group when you're done so we know everything's taken care of!
 
 Below you will find the schedules for each volunteer as well as the full schedule at the end.
 
