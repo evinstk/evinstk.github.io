@@ -1,0 +1,114 @@
+days:
+  - Sun
+  - Mon
+  - Tue
+  - Wed
+  - Thu
+  - Fri
+  - Sat
+persons:
+  - Ilonka
+  - Cheryl
+  - Holly
+  - Cody
+  - Tanner
+schedules:
+  - month: December
+    date-start: 15
+    day-start: 0
+    dates:
+      - person: Ilonka     # Sun 15
+        unavailable:
+          - Holly
+      - person: Ilonka     #     16 No Cody
+        unavailable:
+          - Cody
+          - Holly
+      - person: Cheryl     #     17
+        unavailable:
+          - Holly
+      - person: Cheryl     #     18 No Cody
+        unavailable:
+          - Cody
+          - Holly
+      - person: Cheryl     #     19
+        unavailable:
+          - Holly
+      - person: Cody       #     20 No Cheryl
+        unavailable:
+          - Holly
+          - Cheryl
+      - person: Cody       #     21 No Cheryl
+        unavailable:
+          - Holly
+          - Cheryl
+      - person: Tanner     # Sun 22 No Cheryl; Holly returns
+        unavailable:
+          - Holly
+          - Cheryl
+      - person: Tanner     #     23 No Cody
+        unavailable:
+          - Cody
+      - person: Holly      #     24 Christmas Eve
+      - person: Holly      #     25 No Cody; Christmas
+        unavailable:
+          - Cody
+      - person: Holly      #     26
+      - person: Ilonka     #     27 No Cheryl
+        unavailable:
+          - Cheryl
+      - person: Ilonka     #     28 No Cheryl
+        unavailable:
+          - Cheryl
+      - person: Ilonka     # Sun 29 No Cheryl
+        unavailable:
+          - Cheryl
+      - person: Tanner     #     30 No Cheryl; No Cody
+        unavailable:
+          - Cody
+          - Cheryl
+      - person: Tanner     #     31
+  - month: January
+    date-start: 1
+    day-start: 3
+    dates:
+      - person: Cheryl     # Wed 1
+        unavailable: Cody
+      - person: Cheryl     #     2
+      - person: Cody       #     3
+      - person: Cody       #     4
+      - person: Holly      # Sun 5
+      - person: Holly      #     6
+        unavailable: Cody
+      - person: ""     #     7
+      - person: ""     #     8
+        unavailable: Cody
+      - person: ""     #     9
+      - person: ""     #     10
+      - person: ""     #     11
+      - person: ""     # Sun 12
+      - person: ""     #     13
+        unavailable: Cody
+      - person: ""     #     14
+      - person: ""     #     15
+        unavailable: Cody
+      - person: ""     #     16
+      - person: ""     #     17
+      - person: ""     #     18
+      - person: ""     # Sun 19
+      - person: ""     #     20
+        unavailable: Cody
+      - person: ""     #     21
+      - person: ""     #     22
+        unavailable: Cody
+      - person: ""     #     23
+      - person: ""     #     24
+      - person: ""     #     25
+      - person: ""     # Sun 26
+      - person: ""     #     27
+        unavailable: Cody
+      - person: ""     #     28
+      - person: ""     #     29
+        unavailable: Cody
+      - person: ""     #     30
+      - person: ""     #     31
