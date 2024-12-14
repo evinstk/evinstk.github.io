@@ -10,7 +10,7 @@ Thank you so much for helping out with Rhodie and chores for Sarah/Sassy/Momma/M
 Each visit be sure to:
 - Feed Rhodie by:
   - Filling up his dry food
-  - Giving him a third container of wet food
+  - Giving him a third container of wet food (check the fridge for leftovers!)
   - Refreshing his water
 - Empty Rhodie's litter box
 - Give Rhodie some company!
