@@ -17,7 +17,7 @@ schedules:
     date-start: 14
     day-start: 6
     dates:
-      - person: Ilonka     # Sun 15
+      - person: Ilonka     # Sat 14
         unavailable:
           - Holly
       - person: Ilonka     # Sun 15
@@ -26,28 +26,19 @@ schedules:
       - person: Ilonka     #     16 No Cody
         unavailable:
           - Cody
-          - Holly
       - person: Cheryl     #     17
-        unavailable:
-          - Holly
       - person: Cheryl     #     18 No Cody
         unavailable:
           - Cody
-          - Holly
       - person: Cheryl     #     19
-        unavailable:
-          - Holly
       - person: Cody       #     20 No Cheryl
         unavailable:
-          - Holly
           - Cheryl
       - person: Cody       #     21 No Cheryl
         unavailable:
-          - Holly
           - Cheryl
       - person: Tanner     # Sun 22 No Cheryl; Holly returns
         unavailable:
-          - Holly
           - Cheryl
       - person: Tanner     #     23 No Cody
         unavailable:
