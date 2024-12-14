@@ -13,6 +13,7 @@ Each visit be sure to:
   - Giving him a third container of wet food (check the fridge for leftovers!)
   - Refreshing his water
 - Empty Rhodie's litter box
+- Check for any Rhodie vomit. His tummy is sensitive.
 - Give Rhodie some company!
 - Fetch the mail and collect it on the counter (Tanner will take it home on his visits)
 - Start the cars for a moment especially if the weather is cold
