@@ -10,99 +10,59 @@ persons:
   - Ilonka
   - Cheryl
   - Holly
-  - Cody
-  - Tanner
 schedules:
   - month: December
-    date-start: 14
-    day-start: 6
+    date-start: 24
+    day-start: 2
     dates:
-      - person: Ilonka     # Sat 14
-        unavailable:
-          - Holly
-      - person: Ilonka     # Sun 15
-        unavailable:
-          - Holly
-      - person: Ilonka     #     16 No Cody
-        unavailable:
-          - Cody
-      - person: Cheryl     #     17
-      - person: Cheryl     #     18 No Cody
-        unavailable:
-          - Cody
-      - person: Cheryl     #     19
-      - person: Cody       #     20 No Cheryl
-        unavailable:
-          - Cheryl
-      - person: Cody       #     21 No Cheryl
-        unavailable:
-          - Cheryl
-      - person: Tanner     # Sun 22 No Cheryl; Holly returns
-        unavailable:
-          - Cheryl
-      - person: Tanner     #     23 No Cody
-        unavailable:
-          - Cody
       - person: Holly      #     24 Christmas Eve
-      - person: Holly      #     25 No Cody; Christmas
-        unavailable:
-          - Cody
-      - person: Holly      #     26
+      - person: ''      #     25 No Cody; Christmas
+      - person: ''      #     26
       - person: Ilonka     #     27 No Cheryl
         unavailable:
           - Cheryl
-      - person: Ilonka     #     28 No Cheryl
+      - person: ''     #     28 No Cheryl
         unavailable:
           - Cheryl
-      - person: Ilonka     # Sun 29 No Cheryl
+      - person: ''     # Sun 29 No Cheryl
         unavailable:
           - Cheryl
-      - person: Tanner     #     30 No Cheryl; No Cody
+      - person: ''     #     30 No Cheryl; No Cody
         unavailable:
-          - Cody
           - Cheryl
-      - person: Tanner     #     31
+      - person: ''     #     31
   - month: January
     date-start: 1
     day-start: 3
     dates:
       - person: Cheryl     # Wed 1
-        unavailable: Cody
-      - person: Cheryl     #     2
-      - person: Cody       #     3
-      - person: Cody       #     4
+      - person: ''     #     2
+      - person: ''       #     3
+      - person: ''       #     4
       - person: Holly      # Sun 5
-      - person: Holly      #     6
-        unavailable: Cody
-      - person: Ilonka     #     7
+      - person: ''      #     6
+      - person: ''     #     7
       - person: Ilonka     #     8
-        unavailable: Cody
-      - person: Cody     #     9
-      - person: Cody     #     10
-      - person: Tanner     #     11
-      - person: Tanner     # Sun 12
+      - person: ''     #     9
+      - person: ''     #     10
+      - person: ''     #     11
+      - person: ''     # Sun 12
       - person: Cheryl     #     13
-        unavailable: Cody
-      - person: Cheryl     #     14
-      - person: Cheryl     #     15
-        unavailable: Cody
+      - person: ''     #     14
+      - person: ''     #     15
       - person: Holly     #     16
-      - person: Holly     #     17
-      - person: Holly     #     18
-      - person: Ilonka     # Sun 19
-      - person: Ilonka     #     20
-        unavailable: Cody
+      - person: ''     #     17
+      - person: ''     #     18
+      - person: ''     # Sun 19
+      - person: ''     #     20
       - person: Ilonka     #     21
-      - person: Tanner     #     22
-        unavailable: Cody
-      - person: Tanner     #     23
-      - person: Cody     #     24
-      - person: Cody     #     25
+      - person: ''     #     22
+      - person: ''     #     23
+      - person: ''     #     24
+      - person: ''     #     25
       - person: Cheryl     # Sun 26
-      - person: Cheryl     #     27
-        unavailable: Cody
-      - person: Holly     #     28
+      - person: ''     #     27
+      - person: ''     #     28
       - person: Holly     #     29
-        unavailable: Cody
-      - person: Tanner     #     30
-      - person: Tanner     #     31
+      - person: ''     #     30
+      - person: ''     #     31

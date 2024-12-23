@@ -1,22 +1,14 @@
 ---
 layout: page
-title: Rhodie and Chores Schedule
+title: Chores Schedule
 permalink: /rhodie-chores
 ---
 {% assign days = site.data.chore-schedule.days %}
 
-Thank you so much for helping out with Rhodie and chores for Sarah/Sassy/Momma/Mama. Together we'll get it done!
-
 Each visit be sure to:
-- Feed Rhodie by:
-  - Filling up his dry food
-  - Giving him a third container of wet food (check the fridge for leftovers!)
-  - Refreshing his water
-- Empty Rhodie's litter box
-- Check for any Rhodie vomit. His tummy is sensitive.
-- Give Rhodie some company!
-- Fetch the mail and collect it on the counter (Tanner will take it home on his visits)
-- Start the cars for a moment especially if the weather is cold
+- Fetch the mail and collect it on the counter (Tanner will take it home on his visits).
+- Start the cars for a moment especially if the weather is cold.
+- If the weather is cold, make sure faucets are dripping so they don't freeze.
 - Text the group when you're done so we know everything's taken care of!
 
 Below you will find the schedules for each volunteer as well as the full schedule at the end.
