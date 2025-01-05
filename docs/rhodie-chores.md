@@ -9,7 +9,7 @@ Each visit be sure to:
 - Fetch the mail and collect it on the counter (Tanner will take it home on his visits).
 - Start the cars for a moment especially if the weather is cold.
 - If the weather is cold, make sure faucets are dripping so they don't freeze.
-- Check that the freezers and fridge in the basement are still on. If a power outage happens, they can turn off because the circuit they're attached to requires a manual turn on. If they are off, please turn them back on.
+- Check that the freezers and fridge in the garage are still on. If a power outage happens, they can turn off because the circuit they're attached to requires a manual turn on. If they are off, please turn them back on.
 - Text the group when you're done so we know everything's taken care of!
 
 Below you will find the schedules for each volunteer as well as the full schedule at the end.
