@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Chores Schedule
+# title: Chores Schedule
 permalink: /rhodie-chores
 ---
 {% assign days = site.data.chore-schedule.days %}
