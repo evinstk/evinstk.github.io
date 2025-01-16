@@ -18,6 +18,7 @@ Good goals are **(1) achievable,** **(2) have consequences for failure,** are **
 - **Nelson**: What's the lead you're pursuing? What would Dani and/or Dust (as seedy underbelly connections) know that would bring you closer to finding your wife or tracking the official?
 - **Nelson**: Who is the official that exiled your wife? We could make them a villain NPC.
 - **Nelson**: What's your wife's name? :)
+- **Nelson**: What was your experience at war like?
 
 ## Dust Damron (Casey) Goals
 **Long-term.** Dust's family was wiped out when she was young. She doesn't know the exact circumstances of her family's death, but she is certain the Cerberus Assembly is involved. She wants to know more about what happened by learning more about the Assembly. Maybe she learns of a family legacy, or maybe she uncovers some conspiracy.
