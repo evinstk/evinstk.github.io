@@ -7,6 +7,7 @@ Good goals are **(1) achievable,** **(2) have consequences for failure,** are **
 
 ## Open questions
 - **Cody/Casey**: Is Cody open about his association with the Cerberus Assembly? Given that Dust suspects the Assembly is responsible for her family's death, if Dust learns that he's a former member, that would arouse suspicion.
+- **Cody**: Who did you know at the Cerberus Assembly? Any villains, friends, or remaining contacts?
 - **Dani/Cody**: What is the nature of Dani's power and Cody's magical experimentation? We know these things:
   - Cody takes an interest in Dani because he believes her power could be related to his experimentation.
   - Dani fears her power might attract unwanted attention from the Cerberus Assembly.
