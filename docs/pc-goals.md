@@ -26,6 +26,8 @@ Good goals are **(1) achievable,** **(2) have consequences for failure,** are **
 
 > How can we achieve this goal concretely, and what would it mean for Dust to fail? At this point, if she doesn't learn more about her family circumstances, nothing much changes for her. I think we need a specific next step here and more details on what Dust knows currently.
 
+**Mid-term.** Dust wants to leave Shadycreek Run someday. She wants to build up enough means, money, and influence to make a better life for herself in a new city.
+
 **Short-term.** Dust and Zora are working a job because that's what they do. They're criminals and they love it.
 
 > Just need to know what the job is here and I think the rest of the criteria will follow!
@@ -46,7 +48,7 @@ Good goals are **(1) achievable,** **(2) have consequences for failure,** are **
 ## (Nelson) Goals
 **Long-term.** After returning from the war, Nelson discovered that his wife had been exiled by a local Blumenthal official after she spurned his advances. Nelson wants revenge, whatever form that may take, and to find his wife.
 
-**Short-term.** Nelson is pursuing leads of his wife's whereabouts in Shadycreek Run and looking for accomplices for his revenge plot against the official.
+**Mid-term.** Nelson is pursuing leads of his wife's whereabouts in Shadycreek Run and looking for accomplices for his revenge plot against the official.
 
 **Short-term.** Nelson supports himself by doing jobs for the Grudge Gang, the local muscle in Shadycreek Run. He wants to complete his assignments so he can feed himself and continue his mission.
 
@@ -57,7 +59,7 @@ Gonzalo knows that the Cerberus Assembly is the real instigator behind the war, 
 
 > Need more details on the nature of the experiments and what your plans are. If your experiments have something to do with Zora's power, what's the relationship?
 
-**Short-term.** Gonzalo wants to explore the Savalirwood in order to discover its arcane secrets to further his magical experiments.
+**Mid-term.** Gonzalo wants to explore the Savalirwood in order to discover its arcane secrets to further his magical experiments.
 
 > What can we achieve here that will move Gonzalo to his long-term goal?
 
